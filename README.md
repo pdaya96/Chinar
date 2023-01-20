@@ -1,2 +1,2 @@
-# Chinar
+# Practice
 myfirst repo
